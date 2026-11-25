@@ -1,15 +1,17 @@
 # Hi, I'm Buğra
 
-I'm interested in mobile apps and backend development. I use this space for small projects, experiments, and things I'm learning along the way.
+I build backend services, mobile apps, and tools for working with data. My recent projects involve water-quality monitoring, computer vision, and microservices.
 
 ### What I work with
 
-Mostly C, Python, and Flutter / Dart, with Firebase and MySQL for app projects. I'm also learning more about system design and data structures.
+- Backend APIs and microservices with Spring Boot, Spring Cloud, FastAPI, and PostgreSQL; service discovery, API gateways, and JWT authentication.
+- Computer vision with Python, OpenCV, and YOLO, including detection and character-recognition pipelines.
+- Interactive data visualization with React and Three.js, and mobile development with Flutter and Firebase.
 
-### A few projects
+### Selected projects
 
-- [mini-db](https://github.com/bugractnky/mini-db) — a small database project in C.
-- [cli-sorting-visualizer](https://github.com/bugractnky/cli-sorting-visualizer) — sorting algorithms in the terminal.
-- [face-recognition](https://github.com/bugractnky/face-recognition) — experimenting with face recognition in Python.
+- [AquaTwin](https://github.com/bugractnky/aquatwin-studio) — a water-quality monitoring research prototype with a 3D pond model, depth profiles, and spatial analysis. Built with React, Three.js, FastAPI, and PostgreSQL.
+- [Port Vision Inspection](https://github.com/bugractnky/port-vision-inspection) — a Python desktop app using YOLO to read vehicle plates and container numbers, with seal and damage inspection.
+- [Orderify](https://github.com/bugractnky/orderify-app) — a microservices demo with order, payment, and user services, an API gateway, service discovery, and JWT authentication. Built with Spring Boot and Docker Compose.
 
 [LinkedIn](https://www.linkedin.com/in/buğra-çetinkaya-47331b1b5/)
