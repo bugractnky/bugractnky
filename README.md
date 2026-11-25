@@ -1,20 +1,23 @@
 # Hi, I'm Buğra
 
-Lately, I've been working on software for water-quality monitoring and a computer-vision app for port inspections. I enjoy the part where a model or an API becomes something people can actually use.
+I'm a Computer Engineering student at METU NCC. I'm currently working on AquaTwin, my capstone project on water-quality monitoring.
 
 ### What I work with
 
-My main interests are backend development and applied computer vision: API design, PostgreSQL, and detection pipelines. I use Python and Java for that work, and React / Three.js or Flutter when the project needs an interface.
+I focus on backend development and computer vision, mainly with Python and Java. My projects cover API design, database integration, and image-processing pipelines.
 
 ### Selected work
 
-**[AquaTwin](https://github.com/bugractnky/aquatwin-studio)**
-My Computer Engineering capstone project at METU NCC, focused on water-quality monitoring. I'm working on the software that connects measurement records to a 3D pond view, depth profiles, and spatial analysis. The API and database flow is implemented; field hardware integration is still ahead.
+#### [AquaTwin](https://github.com/bugractnky/aquatwin-studio)
 
-**[Port Vision Inspection](https://github.com/bugractnky/port-vision-inspection)**
-A desktop application bringing plate and container-number recognition, seal checks, and damage detection into one interface. The Python pipeline combines YOLO detection, character recognition, and container-number validation, with repeated readings to stabilize video results.
+My Computer Engineering capstone project. I'm developing the software for storing water-quality measurements and exploring them through a 3D pond model, depth profiles, and spatial analysis. The API and database are connected; field hardware integration is the next stage.
 
-**[Orderify](https://github.com/bugractnky/orderify-app)**
-An earlier backend project exploring how order, payment, and user services fit together using Spring Cloud, an API gateway, and JWT authentication.
+#### [Port Vision Inspection](https://github.com/bugractnky/port-vision-inspection)
+
+A desktop app for reading vehicle plates and container numbers, checking seals, and detecting damage. I was involved throughout the project, from model training and image-processing integration to the desktop interface. It uses YOLO and validates container numbers, with repeated readings to stabilize video results.
+
+#### [Orderify](https://github.com/bugractnky/orderify-app)
+
+An earlier project where I explored microservices with Spring Boot: separate order, payment, and user services, connected through an API gateway with service discovery and JWT authentication.
 
 [LinkedIn](https://www.linkedin.com/in/buğra-çetinkaya-47331b1b5/)
