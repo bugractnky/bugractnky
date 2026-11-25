@@ -1,17 +1,20 @@
 # Hi, I'm Buğra
 
-I build backend services, mobile apps, and tools for working with data. My recent projects involve water-quality monitoring, computer vision, and microservices.
+Lately, I've been working on software for water-quality monitoring and a computer-vision app for port inspections. I enjoy the part where a model or an API becomes something people can actually use.
 
 ### What I work with
 
-- Backend APIs and microservices with Spring Boot, Spring Cloud, FastAPI, and PostgreSQL; service discovery, API gateways, and JWT authentication.
-- Computer vision with Python, OpenCV, and YOLO, including detection and character-recognition pipelines.
-- Interactive data visualization with React and Three.js, and mobile development with Flutter and Firebase.
+My main interests are backend development and applied computer vision: API design, PostgreSQL, and detection pipelines. I use Python and Java for that work, and React / Three.js or Flutter when the project needs an interface.
 
-### Selected projects
+### Selected work
 
-- [AquaTwin](https://github.com/bugractnky/aquatwin-studio) — a water-quality monitoring research prototype with a 3D pond model, depth profiles, and spatial analysis. Built with React, Three.js, FastAPI, and PostgreSQL.
-- [Port Vision Inspection](https://github.com/bugractnky/port-vision-inspection) — a Python desktop app using YOLO to read vehicle plates and container numbers, with seal and damage inspection.
-- [Orderify](https://github.com/bugractnky/orderify-app) — a microservices demo with order, payment, and user services, an API gateway, service discovery, and JWT authentication. Built with Spring Boot and Docker Compose.
+**[AquaTwin](https://github.com/bugractnky/aquatwin-studio)**
+Water-quality monitoring research project at METU NCC. I'm working on the software that connects measurement records to a 3D pond view, depth profiles, and spatial analysis. The API and database flow is implemented; field hardware integration is still ahead.
+
+**[Port Vision Inspection](https://github.com/bugractnky/port-vision-inspection)**
+A desktop application bringing plate and container-number recognition, seal checks, and damage detection into one interface. The Python pipeline combines YOLO detection, character recognition, and container-number validation, with repeated readings to stabilize video results.
+
+**[Orderify](https://github.com/bugractnky/orderify-app)**
+An earlier backend project exploring how order, payment, and user services fit together using Spring Cloud, an API gateway, and JWT authentication.
 
 [LinkedIn](https://www.linkedin.com/in/buğra-çetinkaya-47331b1b5/)
