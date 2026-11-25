@@ -9,7 +9,7 @@ My main interests are backend development and applied computer vision: API desig
 ### Selected work
 
 **[AquaTwin](https://github.com/bugractnky/aquatwin-studio)**
-Water-quality monitoring research project at METU NCC. I'm working on the software that connects measurement records to a 3D pond view, depth profiles, and spatial analysis. The API and database flow is implemented; field hardware integration is still ahead.
+My Computer Engineering capstone project at METU NCC, focused on water-quality monitoring. I'm working on the software that connects measurement records to a 3D pond view, depth profiles, and spatial analysis. The API and database flow is implemented; field hardware integration is still ahead.
 
 **[Port Vision Inspection](https://github.com/bugractnky/port-vision-inspection)**
 A desktop application bringing plate and container-number recognition, seal checks, and damage detection into one interface. The Python pipeline combines YOLO detection, character recognition, and container-number validation, with repeated readings to stabilize video results.
